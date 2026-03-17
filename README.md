@@ -79,6 +79,11 @@ I created a potfolio website to present my progress and chivements not only to r
 
 ![img123](omaagaa.jpeg)
 
+# Task 8: Writing Resource Article using Markdown
+In this task, I worked on creating an article on ***How does Encryption Work In Telegram ?*** using Markdown, where I learned how to format text using simple syntax like headings, lists, and links without relying on complex tools or HTML. Through this task, I understood how Markdown makes writing clean, structured content easy and consistent across different platforms.  
+The linked article is posted below :  
+[Article](Telgram.md)
+
 # Task 9: TinkerCAD
 TinkerCad is a very good platform to not only design 3d models but also to simulate the circuits before proceeding to the actual physical components and circuits.  
 To know more about the basics of TinkerCad I took reference from a few youtube videos as well.Meanwhile I also completed the task of building circuit for the radar system involving electromagnetic sensor.  

@@ -48,7 +48,7 @@ This task has taught me a lot about Git and GitHub and has encouraged me to expl
 
 # Task 4: Familiarizing with the Ubuntu Command Line
 I used an online Ubuntu platform  so I began using it for the task. I explored the Ubuntu interface and focused mainly on working with the **terminal**. Since Linux commands were new to me, I practiced basic commands to understand file handling and navigation.  
-I initially created a folder named test and created 2600 folders inside the directory and also concantenate 2 text fils and displayed output.
+I initially created a folder named test and created 2600 folders inside the directory and also concantenate 2 text files and displayed output.
 
 ## Commands Used
 | Task | Command |

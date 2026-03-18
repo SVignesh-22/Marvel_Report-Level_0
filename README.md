@@ -69,13 +69,13 @@ This task helped me understand the basics of the Ubuntu terminal and use common 
 In this task, I worked with a scrambled matrix that represented the pixel values of an image. The main objective was to analyze the given matrix and use **NumPy** to rearrange the data so that the hidden image could be reconstructed.
 These operations helped in restoring the the image data. 
 By carefully adjusting the matrix structure, the scrambled data gradually formed a meaningful pattern.  
-After reconstructing the matrix, **Matplotlib** was used to visualize the processed data. The matrix was displayed as an image(smiley).
+After reconstructing the matrix, **Matplotlib** was used to visualize the processed data. The matrix was displayed as an image(smiley face).
 
 ![Image](smiley.jpeg)
 
 # TASK 7: Create a Portfolio Webpage
-In this task, I learnt some concepts abou javascript html and css while creating the portfolio.  
-I created a potfolio website to present my progress and chivements not only to recriuters but also to all my peers as well.
+In this task, I learnt some concepts about javascript,html and css while creating the portfolio.  
+I created a potfolio website to present my progress,achivements and also my contact details not only to the recriuters but to also to inspire me to get better everyday.
 
 ![img123](omaagaa.jpeg)
 

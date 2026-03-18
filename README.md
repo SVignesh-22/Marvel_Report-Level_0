@@ -92,7 +92,7 @@ To know more about the basics of TinkerCad I took reference from a few youtube v
 
 # Task 10: Speed Control of DC Motor
 I controlled the speed of a DC motor using an Arduino UNO and an L298N motor driver.  
-I intially simulated this circuit and its working in TinkerCad and then built the circuit using actual physical components and connections.The Arduino UNO and L293D motor driver to control the speed of a DC BO motor.
+I intially simulated this circuit and its working in TinkerCad and then built the circuit using actual physical components and connections.The Arduino UNO and L293N motor driver to control the speed of a DC BO motor.
 A potentiometer is used to vary the speed by sending a value to the Arduino. The Arduino sends PWM signals to the ENA pin of the L293N. The L293N then supplies power to the motor, allowing its speed to change based on the PWM signal.
 
 ![img](image23.png)
@@ -116,7 +116,7 @@ I have also attended the Google Cloud Skills Boost course and gained 19 skill ba
 [Google Cloud Skills Boost](https://www.skills.google/public_profiles/a98d3c5d-b309-4e85-8d12-e1dce65d66c0)
 
 # Task 17:Introduction to VR
-Fo this task, I explored and deep dived into the info of **Virtual Reality** (VR) and also **Augmented Reality** (AR) figuring out its definition, difference, significance, current trends, scope and also about some of the Indian Companies working in this sector.
+For this task, I explored and deep dived into the info of **Virtual Reality** (VR) and also **Augmented Reality** (AR) figuring out its definition, difference, significance, current trends, scope and also about some of the Indian Companies working in this sector.
 Here is my Report:  
 [Report](https://github.com/SVignesh-22/task17_marvel.git)
 

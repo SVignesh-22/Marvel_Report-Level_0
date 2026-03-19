@@ -112,6 +112,9 @@ In this task, I learnt about the soldering equipment in our lab like soldering i
 
 # Task 15 :Active Participation
 I participated and won the 1st place in the poster presentation in the Kagada 2025 event and also participated in various events in the Impetus 2026 organised by IEEE UVCE.  
+
+![img](imgaga.jpeg)  
+
 I have also attended the Google Cloud Skills Boost course and gained 19 skill badges.  
 [Google Cloud Skills Boost](https://www.skills.google/public_profiles/a98d3c5d-b309-4e85-8d12-e1dce65d66c0)
 
